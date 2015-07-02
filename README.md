@@ -2,6 +2,12 @@
 
 The Three (or more) Laws of Schematics
 
+Note: while this claims to be a set of guidelines surrounding the drafting of technical specifications, it can also be interpreted as a set of guidelines around any sort of design, and, in a broader interpretation, as [an abstract philosophy of life][ZAMM]. All opinions expressed are my own, except the Robustness Principle was Jon Postel's. Also this document cribs heavily from [The Design of Everyday Things][] and [The Pragmatic Programmer][]. Subject to interpretation. Follow at your own risk or benefit. Party Hard.
+
+[ZAMM]: http://amzn.to/1GS6rXX
+[The Design of Everyday Things]: http://amzn.to/1dAbip2
+[The Pragmatic Programmer]: http://amzn.to/1JABxdu
+
 ## The Pragmatic Prime Directive: Serve the Use Cases
 
 The ultimate point of any spec is Taking Care of Business.
