@@ -1,5 +1,6 @@
 # specs-laws
-The Three Laws of Schematics
+
+The Three (or more) Laws of Schematics
 
 ## The Pragmatic Prime Directive: Serve the Use Cases
 
@@ -10,6 +11,10 @@ Know your use cases, know your scope, know your prior art.
 ### Know What "Unopinionated" Means
 
 At some level, *anything* is an opinion. Know what opinions and beliefs your spec targets follow (hint: they're part of the use cases), and don't implement things that assume *more* than these beliefs.
+
+### Be Liberal In What You Accept
+
+Implementers will make mistakes, implementers will need to break compliance. You can't just say "it's invalid, throw everything away" when things don't work exactly the way you want. Be Pragmatic. State what should happen when the spec has to degrade. Explain your reasoning. Show your work, and *do* let other students copy off your paper (as long as they don't put your name on it).
 
 ## Correctness is Security, Correctness is Speed
 
