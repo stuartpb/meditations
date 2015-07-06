@@ -26,7 +26,9 @@ Implementers will make mistakes, implementers will need to break compliance. You
 
 ## Correctness is Security, Correctness is Speed
 
-Shortcuts are for tools - literally. Don't make it easier to specify something by using a shared, simpler syntax that overrides another meaning that is less likely but still technically possible (especially if it would make that less-likely meaning impossible).
+Shortcuts are for tools - literally. Don't make it easier to specify something by using a shared, simpler syntax that overrides another meaning that is less likely but still technically possible (especially if it would make that less-likely meaning impossible). In specs, as in implementation, [the key to performance is elegance, not battalions of special cases][Conversations: Jon Bentley].
+
+[Conversations: Jon Bentley]: http://www.drdobbs.com/architecture-and-design/conversations-jon-bentley/207000707
 
 Correctness must be enforced unless it woud not be pragmatic to do so.
 
