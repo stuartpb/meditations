@@ -12,7 +12,9 @@ Note: while this claims to be a set of guidelines surrounding the drafting of te
 
 The ultimate point of any spec is Taking Care of Business.
 
-Know your use cases, know your scope, know your prior art.
+Know your use cases, know your scope, know your prior art. Realize that [you're not the first one to notice these problems][SPACEWAR].
+
+[SPACEWAR]: http://stuartpb.github.io/spacewar-article/spacewar.html
 
 ### Know What "Unopinionated" Means
 
