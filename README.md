@@ -16,7 +16,9 @@ Know your use cases, know your scope, know your prior art.
 
 ### Know What "Unopinionated" Means
 
-At some level, *anything* is an opinion. Know what opinions and beliefs your spec targets follow (hint: they're part of the use cases), and don't implement things that assume *more* than these beliefs.
+At some level, *anything* is an opinion. Know what opinions and beliefs your spec targets follow (hint: they're part of the use cases), and don't implement things that assume *more* than these beliefs. [Recognize that you are asserting a worldview.][worldviews]
+
+[worldviews]: http://www.shirky.com/writings/herecomeseverybody/semantic_syllogism.html#worldviews_differ_for_good_reasons
 
 ### Be Liberal In What You Accept
 
