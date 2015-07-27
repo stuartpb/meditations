@@ -30,6 +30,10 @@ At some level, *anything* is an opinion. Know what opinions and beliefs your spe
 
 Implementers will make mistakes, implementers will need to break compliance. You can't just say "it's invalid, throw everything away" when things don't work exactly the way you want (unless you're a serialization format, in which case that signals data corruption). Be Pragmatic. State what should happen when the spec has to degrade. Explain your reasoning. Show your work, and *do* let other students copy off your paper (as long as they don't put your name on it).
 
+### Work With The Implementation
+
+A spec without an implementation is just a pipe dream - just saying "everybody will agree on everything forever" doesn't fix anything. Start working on an implementation, even just a polyfill, as early as possible (making sure to keep that implementation in sync with your proposed spec - a divergent implementation at this stage is going to make things so much worse).
+
 ## Correctness is Security, Correctness is Speed
 
 Shortcuts are for tools - literally. Don't make it easier to specify something by using a shared, simpler syntax that overrides another meaning that is less likely but still technically possible (especially if it would make that less-likely meaning impossible). In specs, as in implementation, [the key to performance is elegance, not battalions of special cases][Conversations: Jon Bentley].
