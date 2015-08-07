@@ -42,6 +42,8 @@ Shortcuts are for tools - literally. Don't make it easier to specify something b
 
 Correctness must be enforced unless it woud not be pragmatic to do so.
 
+Importantly, you must not let the use cases drive you *away* from correctness, when correctness would solve the use cases *just as easily* (or nearly so, possibly with a bit more work by tools) - using "we don't strictly need it" as a "justification" for incorrectness is a slippery trap we let ourselves fall into when we want an excuse to avoid doing more work, as a way of offloading our problems onto others (either other developers, or other users).
+
 ## Explicit Is Better Than Implicit, Though The Implicit Case Must Make Sense
 
 Making implicit cases insecure is a mistake, unless it would be more insecure to force security.
