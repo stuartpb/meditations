@@ -45,7 +45,12 @@ You can't offload all of your problems onto the user, but you can't let the pote
 
 You need to understand *why* the user is motivated to do this painful behavior. Sometimes, it's just lifting their arm - they need to reach higher heights. Maybe they're stabbing their neck with a fork because that's how they lanced a boil before and they've come to think that's normally how they can relieve their pain. Sometimes, they just *aren't* - you'll find that the hypothetical user hurt by this behavior doesn't exist. Whatever it is, the solution here starts with **asking them**. Trying to solve it with a brute-force attack on possibilities is intractible, and the answer is almost always (*by definition*) going to be outside your search space.
 
-And, of course, sometimes human motivations are too murky and complex to truly comprehend. Such is life. When you have gotten to that point, and **only** when you have gotten to that point, should you say "don't do that", and just live with the fact that you made that call. (Be open to others if they later come to you to explain their motivation further, and consider what might otherwise satisfy/address those motivations.)
+And, of course, sometimes human motivations are too murky and complex to truly comprehend, and diagnosing it directly is likely to introduce more problems, as illustrated by *another* exchange, from the same vaudeville act:
+
+- **PATIENT**: Doctor, my neck hurts.
+- **DOCTOR**: Well, sit down and open your neck.
+
+Such is life. When you have gotten to that point, and **only** when you have gotten to that point, should you say "don't do that", and just live with the fact that you made that call. (Be open to others if they later come to you to explain their motivation further, and consider what might otherwise satisfy/address those motivations.)
 
 ### Be Liberal In What You Accept
 
