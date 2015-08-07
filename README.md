@@ -28,7 +28,7 @@ At some level, *anything* is an opinion. Know what opinions and beliefs your spe
 
 ### Know When To Say "Don't Do That"
 
-There's an old [vaudeville][] bit, popularized by the duo [Smith & Dale][], where a patient (played by Smith) goes to see a doctor (Dr. Kronkheit, played by Dale), which goes:
+There's an old [vaudeville][] bit, popularized by the duo [Smith & Dale][], where a patient goes to see a doctor and has the exchange:
 
 - **PATIENT**: Doctor, it hurts when I do this *(raises arm)*.
 - **DOCTOR**: Well, don't do that.
