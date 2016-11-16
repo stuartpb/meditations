@@ -9,3 +9,5 @@ One of the principles I have when it comes to growing on any stance is that I ha
 That is generally the strategy my explanations take: find the thing I cared about that I didn't realize I cared about, pick the broken and unhealthy stacks off from on top of that, and then relay the clearer views to build on top of what was just as clear then as now.
 
 And, of course, sometimes I can't be sure I remember my younger self's understandings so accurately, and there's call to cover my bases. Hence explanations of things that lie close to that untouched core of clarity, like this. Not everybody's a younger me.
+
+(The same goes for more concrete stuff like how HTML or Git works, too.)
