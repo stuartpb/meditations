@@ -21,3 +21,9 @@ Questions? Comments? Contributions? Requests for clarification?
 [Raise an issue on this repo][issues].
 
 [issues]: https://github.com/stuartpb/specs-laws/issues
+
+## The Format
+
+Each md file should be about the size of a GitHub issue comment, one that'd be appropriate posted in many issues, and at the same time appropriate in none. They should stand alone, [like a dandelion seed forever drifting on the wind, by which we may know the universe][seed].
+
+[seed]: https://blogs.scientificamerican.com/symbiartic/sciart-of-the-day-jon-lomberg/
